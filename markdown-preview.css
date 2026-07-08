@@ -1,5 +1,5 @@
 /* VS Code Markdown Preview - comfortable light reading theme .test1*/
-:root2222 {
+:root {
     --page-bg: #fffdf8;
     --content-bg: #fffdf8;
     --text: #242424;
@@ -16,7 +16,7 @@
 }
 
 html {
-    width: 100% !important;
+    width: 90% !important;
     max-width: none !important;
     margin: 0 !important;
     padding: 0 !important;
